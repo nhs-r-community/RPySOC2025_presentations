@@ -2,7 +2,7 @@
 
 A repository of all of the materials shared throughout the RPYSOC conference 2025.
 
-The `presentations` folder contains slide decks used for the [Introduction](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/introduction.md), most presentations and the [Closing](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/closing.md) of the conference. Please note this GitHub repository is under an open licence, but that this licence does not extend to other GitHub repositories or websites we may link to here.
+The `presentations` folder contains slide decks used for the [Introduction](), most presentations and the [Closing]() of the conference. Please note this GitHub repository is under an open licence, but that this licence does not extend to other GitHub repositories or websites we may link to here.
 
 ## [Day one am]
 
