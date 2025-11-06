@@ -1,3 +1,8 @@
+# Rendered previews
+*.html
+README_files/
+*_files/
+
 # History files
 .Rhistory
 .Rapp.history
