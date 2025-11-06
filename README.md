@@ -1,7 +1,58 @@
 # RPySOC 2025 Conference Presentations
 
-A repository of all of the materials shared throughout the RPySOC conference 2025.
+A repository of all of the materials shared throughout the RPYSOC conference 2025.
 
-Please note this repo is under an open licence, but that this licence does not extend to other GitHub repositories or websites we may link to here.
+The `presentations` folder contains slide decks used for the [Introduction](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/introduction.md), most presentations and the [Closing](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/closing.md) of the conference. Please note this GitHub repository is under an open licence, but that this licence does not extend to other GitHub repositories or websites we may link to here.
 
-Recordings of presentations will be shared on [YouTube](https://www.youtube.com/@NHSRCommunity).
+## [Day one am]
+
+| Title | Speaker | Links |
+|-----------------------------------------|----------------|----------------|
+| Total Eclipse of the Excel Chart - A reflection on 12 years of teaching modelling and data science in the NHS | Dr Dan Chalk |  |
+| Beautifully reproducible dataviz: lessons learnt from building data-to-viz pipelines | Cara Thompson |  |
+| Using open data and open source code to create an open elective waiting lists modelling tool (RTT Planner) | Sebastian Fox |  |
+| Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas |  |
+| opencodecounts: An R package and Shiny app exploring NHS clinical coding data | Milan Wiedemann | |
+| DES-igning Better Flow: Modelling Non-Elective Admissions | Helena Robinson | |
+| Mapping Accessibility: Using R5py and GTFS Data to Optimise Women’s Health Hub Locations in the Sussex | Karrie Liu | |
+| A Short Story of a Short Course - Natural Language Processing in R for Health and Social Care | Pawel Orzechowski and Brittany Blankinship | |
+
+## [Day one pm]
+
+| Title | Speaker | Links |
+|-----------------------------------------|----------------|----------------|
+| Design a model for Community pharmacy workforce with open source data | Chaeyoon Kim |  |
+| Word is better than Quarto? | Jacqueline Grout and Matt Dray |  |
+| Deploying Python in production: containers, kubernetes and embracing yam | Amadeus Stevenson |  |
+| Modelling Community waiting lists with NHS-R waiting list library | Simon Wellesley-Miller |  |
+| Transforming Health Needs Assessments: Reproducible Insights for Smarter NHS Planning | Rachel Christie |  |
+| Building QA into everyday workflows with GitHub | Rhian Davies | [Slides](https://github.com/nhs-r-community/conference-2024/blob/main/Talks/2025-11-13_davies_qa.md) |
+| The story of patientflow: from hospital prototype to Python package | Zella King |  |
+| Going for Gold: Adopting RAP-by-default to Create Analysts from Nowhere | Joe Wilson |  |
+| Zhuzhing custom error messages with {cli} | Fran Barton |  |
+| Shattered pottery and cancer data: using R to rejoin the pieces | Joe Shaw |  |
+
+## [Day two am]
+
+| Title | Speaker | Links |
+|-----------------------------------------|----------------|----------------|
+| Reusable by Default: Reflections on Building Sustainable Open Tools and Knowledge for Healthcare | Sammi Rosser |  |
+| 3 years on NHS-RPy Unconference: open, self-organising exchange of ideas | Pawel Orzechowski and Brittany Blankinship |  |
+| Practical Testing for Reproducible Analytical Pipelines | Thomas Jemmett |  |
+| How we delivered the OpenSAFELY platform to analyse the whole population’s GP records securely, transparently, with open code | Prof Ben Goldacre |  |
+| Patient-Level Analytics That Work: Using R to Achieve Rapid, Sustained MRSA Screening Compliance Improvements | Daniel Weiand |  |
+| Using simulation to evaluate a service: what to do when you’ve got no data, no clear questions, and no clue if it’s working: | Chris Mainey |  |
+| Making national cancer audit reporting Shiny: a journey from Excel to web-based apps using R and Reproducible Analytical Pipelines. | Ella Barber |  |
+
+## [Day two pm]
+
+| Title | Speaker | Links |
+|-----------------------------------------|----------------|----------------|
+| Data Querying using Natural Language | Abhinav Jindal (Jin) |  |
+| MetaInsight - an R shiny app for network meta-analysis | Simon Smart |  |
+| Better together: lessons from RAP drop-ins | YiWen Hon |  |
+| Predicting Outpatient Non-Attendance | Peter Andrews |  |
+| Learnings from implementing machine learning models on NHS Federated Data Platform for predicting operational pressures escalation levels. | Kenneth Quan |  |
+| Introduction to Causal Inference for R and Python users | Nathan Thomas |  |
+| Publishing reproducible websites using R Quarto: Camden’s JSNA Hub | Annie Yu |  |
+| What Patients Ask: Harnessing Free-Text Data for Patient-Centred Care | Mimi Reyburn |  |
