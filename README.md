@@ -9,9 +9,9 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Title | Speaker | Links |
 |-----------------------------------------|----------------|----------------|
 | Total Eclipse of the Excel Chart - A reflection on 12 years of teaching modelling and data science in the NHS | Dr Dan Chalk | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_chalk_excel_chart.pptx) |
-| Beautifully reproducible dataviz: lessons learnt from building data-to-viz pipelines | Cara Thompson |  |
+| Beautifully reproducible dataviz: lessons learnt from building data-to-viz pipelines | Cara Thompson | [Slides](https://cararthompson.github.io/beautifully-reproducible-dataviz/slides/beautifully-reproducible) |
 | Using open data and open source code to create an open elective waiting lists modelling tool (RTT Planner) | Sebastian Fox |  |
-| Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) | 
+| Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) |
 | opencodecounts: An R package and Shiny app exploring NHS clinical coding data | Milan Wiedemann | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md)  |
 | DES-igning Better Flow: Modelling Non-Elective Admissions | Helena Robinson | |
 | Mapping Accessibility: Using R5py and GTFS Data to Optimise Women’s Health Hub Locations in the Sussex | Karrie Liu | |
@@ -22,7 +22,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Title | Speaker | Links |
 |-----------------------------------------|----------------|----------------|
 | Design a model for Community pharmacy workforce with open source data | Chaeyoon Kim |  |
-| Word is better than Quarto? | Jacqueline Grout and Matt Dray |  |
+| Word is better than Quarto? | Jacqueline Grout and Matt Dray | [Slides](https://github.com/The-Strategy-Unit/data_science/tree/main/presentations/2025-11-13_nhsrpysoc-2025-word/) |
 | Deploying Python in production: containers, kubernetes and embracing yam | Amadeus Stevenson |  |
 | Modelling Community waiting lists with NHS-R waiting list library | Simon Wellesley-Miller |  |
 | Transforming Health Needs Assessments: Reproducible Insights for Smarter NHS Planning | Rachel Christie |  |
