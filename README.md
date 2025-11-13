@@ -21,7 +21,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 
 | Title | Speaker | Links |
 |-----------------------------------------|----------------|----------------|
-| Design a model for Community pharmacy workforce with open source data | Chaeyoon Kim |  |
+| Design a model for Community pharmacy workforce with open source data | Chaeyoon Kim | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_kim.md) |
 | Word is better than Quarto? | Jacqueline Grout and Matt Dray | [Slides](https://github.com/The-Strategy-Unit/data_science/tree/main/presentations/2025-11-13_nhsrpysoc-2025-word/) |
 | Deploying Python in production: containers, kubernetes and embracing yam | Amadeus Stevenson | [Slides](https://amadeuspzs.github.io/nhs-rpysoc-2025-deploy-python/) |
 | Modelling Community waiting lists with NHS-R waiting list library | Simon Wellesley-Miller |  |
