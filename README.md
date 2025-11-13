@@ -29,14 +29,14 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Building QA into everyday workflows with GitHub | Rhian Davies | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_davies_qa.md) |
 | The story of patientflow: from hospital prototype to Python package | Zella King |  |
 | Going for Gold: Adopting RAP-by-default to Create Analysts from Nowhere | Joe Wilson |  |
-| Zhuzhing custom error messages with {cli} | Fran Barton |  |
+| Zhuzhing custom error messages with {cli} | Fran Barton | [Slides](https://the-strategy-unit.github.io/data_science/presentations/2025-11-13_error_messages_with_cli/) |
 | Shattered pottery and cancer data: using R to rejoin the pieces | Joe Shaw |  |
 
 ## [Day two am]
 
 | Title | Speaker | Links |
 |-----------------------------------------|----------------|----------------|
-| Reusable by Default: Reflections on Building Sustainable Open Tools and Knowledge for Healthcare | Sammi Rosser |  |
+| Reusable by Default: Reflections on Building Sustainable Open Tools and Knowledge for Healthcare | Sammi Rosser | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_rosser.md) |
 | 3 years on NHS-RPy Unconference: open, self-organising exchange of ideas | Pawel Orzechowski and Brittany Blankinship |  |
 | Practical Testing for Reproducible Analytical Pipelines | Thomas Jemmett | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_jemmett.md)  |
 | How we delivered the OpenSAFELY platform to analyse the whole population’s GP records securely, transparently, with open code | Prof Ben Goldacre |  |
