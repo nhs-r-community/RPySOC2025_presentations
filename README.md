@@ -12,7 +12,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Beautifully reproducible dataviz: lessons learnt from building data-to-viz pipelines | Cara Thompson | [Slides](https://cararthompson.github.io/beautifully-reproducible-dataviz/slides/beautifully-reproducible) |
 | Using open data and open source code to create an open elective waiting lists modelling tool (RTT Planner) | Sebastian Fox |  |
 | Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) |
-| opencodecounts: An R package and Shiny app exploring NHS clinical coding data | Milan Wiedemann | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md)  |
+| opencodecounts: An R package and Shiny app exploring NHS clinical coding data | Milan Wiedemann | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_wiedemann.pdf)  |
 | DES-igning Better Flow: Modelling Non-Elective Admissions | Helena Robinson | |
 | Mapping Accessibility: Using R5py and GTFS Data to Optimise Women’s Health Hub Locations in the Sussex | Karrie Liu | |
 | A Short Story of a Short Course - Natural Language Processing in R for Health and Social Care | Pawel Orzechowski and Brittany Blankinship | |
