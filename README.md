@@ -28,7 +28,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) |
 | The story of patientflow: from hospital prototype to Python package | Zella King |  |
 | Going for Gold: Adopting RAP-by-default to Create Analysts from Nowhere | Joe Wilson |  |
-| Zhuzhing custom error messages with {cli} | Fran Barton | [Slides](https://the-strategy-unit.github.io/data_science/presentations/2025-11-13_error_messages_with_cli/) |
+| Zhuzhing custom error messages with {cli} | Fran Barton | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_barton.md) |
 | Shattered pottery and cancer data: using R to rejoin the pieces | Joe Shaw |  |
 
 ## [Day two am]
