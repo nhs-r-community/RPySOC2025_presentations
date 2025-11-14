@@ -53,7 +53,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Better together: lessons from RAP drop-ins | YiWen Hon | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_hon.md)  |
 | Predicting Outpatient Non-Attendance | Peter Andrews | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_andrews_nonattendance.pdf)  |
 | Learnings from implementing machine learning models on NHS Federated Data Platform for predicting operational pressures escalation levels. | Kenneth Quan |  |
-| Introduction to Causal Inference for R and Python users | Nathan Thomas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_jemmett.md)  |
+| Introduction to Causal Inference for R and Python users | Nathan Thomas | |
 | Publishing reproducible websites using R Quarto: Camden’s JSNA Hub | Annie Yu |  |
 | What Patients Ask: Harnessing Free-Text Data for Patient-Centred Care | Mimi Reyburn |  |
 
