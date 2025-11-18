@@ -10,7 +10,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 |-----------------------------------------|----------------|----------------|
 | Total Eclipse of the Excel Chart - A reflection on 12 years of teaching modelling and data science in the NHS | Dr Dan Chalk | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_chalk_excel_chart.pptx) |
 | Beautifully reproducible dataviz: lessons learnt from building data-to-viz pipelines | Cara Thompson | [Slides](https://cararthompson.github.io/beautifully-reproducible-dataviz/slides/beautifully-reproducible) |
-| Using open data and open source code to create an open elective waiting lists modelling tool (RTT Planner) | Sebastian Fox |  |
+| Using open data and open source code to create an open elective waiting lists modelling tool (RTT Planner) | Sebastian Fox | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_fox_rtt_planner.pptx) |
 | opencodecounts: An R package and Shiny app exploring NHS clinical coding data | Milan Wiedemann | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_wiedemann.pdf)  |
 | DES-igning Better Flow: Modelling Non-Elective Admissions | Helena Robinson | |
 | Mapping Accessibility: Using R5py and GTFS Data to Optimise Women’s Health Hub Locations in the Sussex | Karrie Liu | |
