@@ -24,7 +24,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Word is better than Quarto? | Jacqueline Grout and Matt Dray | [Slides](https://github.com/The-Strategy-Unit/data_science/tree/main/presentations/2025-11-13_nhsrpysoc-2025-word/) |
 | Deploying Python in production: containers, kubernetes and embracing yaml | Amadeus Stevenson | [Slides](https://amadeuspzs.github.io/nhs-rpysoc-2025-deploy-python/) |
 | Modelling Community waiting lists with NHS-R waiting list library | Simon Wellesley-Miller |  |
-| Transforming Health Needs Assessments: Reproducible Insights for Smarter NHS Planning | Rachel Christie |  |
+| Transforming Health Needs Assessments: Reproducible Insights for Smarter NHS Planning | Rachel Christie | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_christie.pdf) |
 | Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) |
 | The story of patientflow: from hospital prototype to Python package | Zella King |  |
 | Going for Gold: Adopting RAP-by-default to Create Analysts from Nowhere | Joe Wilson |  |
