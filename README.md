@@ -38,7 +38,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Reusable by Default: Reflections on Building Sustainable Open Tools and Knowledge for Healthcare | Sammi Rosser | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_rosser.md) |
 | A Short Story of a Short Course - Natural Language Processing in R for Health and Social Care | Pawel Orzechowski and Brittany Blankinship | |
 | Practical Testing for Reproducible Analytical Pipelines | Thomas Jemmett | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_jemmett.md)  |
-| Building QA into everyday workflows with GitHub | Rhian Davies | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_davies_qa.md) |
+| Ditch the Spreadsheets: Make QA work for you | Rhian Davies | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_davies_qa.md) |
 | How we delivered the OpenSAFELY platform to analyse the whole population’s GP records securely, transparently, with open code | Prof Ben Goldacre |  |
 | Patient-Level Analytics That Work: Using R to Achieve Rapid, Sustained MRSA Screening Compliance Improvements | Daniel Weiand |  |
 | Using simulation to evaluate a service: what to do when you’ve got no data, no clear questions, and no clue if it’s working: | Chris Mainey | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_mainey.md)  |
