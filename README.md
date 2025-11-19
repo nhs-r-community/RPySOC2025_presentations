@@ -26,7 +26,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Modelling Community waiting lists with NHS-R waiting list library | Simon Wellesley-Miller |  |
 | Transforming Health Needs Assessments: Reproducible Insights for Smarter NHS Planning | Rachel Christie | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_christie.pdf) |
 | Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) |
-| The story of patientflow: from hospital prototype to Python package | Zella King |  |
+| The story of patientflow: from hospital prototype to Python package | Zella King | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_king_patientflow.pdf)  |
 | Going for Gold: Adopting RAP-by-default to Create Analysts from Nowhere | Joe Wilson |  |
 | Zhuzhing custom error messages with {cli} | Fran Barton | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_barton.md) |
 | Shattered pottery and cancer data: using R to rejoin the pieces | Joe Shaw |  |
